@@ -38,10 +38,11 @@ public class HangHoa {
     public void setTenHH(String TenHH) {
         this.TenHH = TenHH;
     }
-    public void setmota(string mota) {
+    public void setmota(String mota) {
         this.mota = mota;
     }
-    public void setgia(int gia) {
+    public void setgia(int gia) 
+    {
         this.gia = gia;
     }
     
